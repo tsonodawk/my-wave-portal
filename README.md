@@ -1,4 +1,15 @@
-# Sample Hardhat Project
+# 概要
+
+---
+
+- Web3のdAppの練習
+- [UNCHAIN](https://unchain.tech/)でのラーニング内容になります
+
+# メモ
+
+---
+
+## Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
